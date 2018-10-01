@@ -22,6 +22,12 @@ Some text
 
 
 
+<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_FinalPlots.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_ProgressionInSparklines.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+
+<p style="clear: both;">
+
 <img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_FinalPlots.png" width="300" height="300">
 
 <img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_ProgressionInSparklines.png" width="300" height="300">
