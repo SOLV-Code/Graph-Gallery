@@ -21,11 +21,13 @@
 
 
 
+<p float="left">
 
-
-<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_FinalPlots.png" width="300" height="300">
+<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_FinalPlots.png" width="300" height="300"> 
 
 <img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_ProgressionInSparklines.png" width="300" height="300">
+
+</p>
 
 
 
