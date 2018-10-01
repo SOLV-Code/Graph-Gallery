@@ -22,7 +22,7 @@ Some text
 
 
 
-<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_FinalPlots.png" width="48" height="48>
+<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_FinalPlots.png" width="48" height="48">
 
 ![PercRank1](SOLV/PercentRanks/PercRank_FinalPlots.png)
 
