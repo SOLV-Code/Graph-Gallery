@@ -1,7 +1,7 @@
 ## Instructions for Contributors
 
 ### How to Contribute
-* [Clone](https://help.github.com/articles/cloning-a-repository/) or [fork]([https://help.github.com/articles/fork-a-repo/) the repository
+* [Clone](https://help.github.com/articles/cloning-a-repository/) or [fork](https://help.github.com/articles/fork-a-repo/) the repository
 * In your local copy, add a named folder
 * In your named folder, create 1 subfolder for each plot you want to add
 * In the plot folder, include a *.png file with the plot and a *.R with the code to generate the plot, as well as any required data files as *.csv.
@@ -20,10 +20,10 @@
 
 Some text
 
-[PercRank1](PercRank_FinalPlots.png)
+![PercRank1](SOLV/PercentRanks/PercRank_FinalPlots.png)
 
 
-[PercRank1](PercRank_ProgressionInSparklines.png)
+![PercRank1](SOLV/PercentRanks/PercRank_ProgressionInSparklines.png)
 
 
 
