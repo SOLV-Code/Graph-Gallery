@@ -22,9 +22,9 @@ Some text
 
 
 
-<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_FinalPlots.png" ; style="float: left; width="300" ; height="300""> 
+<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_FinalPlots.png" ; style="float: left; width="300" ; height="300"> 
 
-<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_ProgressionInSparklines.png" ; style="float: left; width="300" ; height="300""> 
+<img src="https://github.com/SOLV-Code/Graph-Gallery/blob/master/SOLV/PercentRanks/PercRank_ProgressionInSparklines.png" ; style="float: left; width="300" ; height="300"> 
 
 <p style="clear: both;">
 
